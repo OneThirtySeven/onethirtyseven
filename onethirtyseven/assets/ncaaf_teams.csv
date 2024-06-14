@@ -1,0 +1,135 @@
+espn_id,school,name,abbreviation,color,stadium,city,state,zip,grass,stadium_indoor,division
+30,USC,Trojans,USC,9e2237,Los Angeles Memorial Coliseum,Los Angeles,CA,90037,True,False,Pac-12
+55,Jacksonville State,Gamecocks,JVST,b50500,Burgess-Snow Field,Jacksonville,AL,36265,False,False,Conference USA
+166,New Mexico State,Aggies,NMSU,891216,Aggie Memorial Stadium,Las Cruces,NM,88003,False,False,Conference USA
+21,San Diego State,Aztecs,SDSU,c41230,Snapdragon Stadium,San Diego,CA,92108,False,False,Mountain West
+2348,Louisiana Tech,Bulldogs,LT,002d65,Joe Aillet Stadium,Ruston,LA,71270,False,False,Conference USA
+238,Vanderbilt,Commodores,VAN,000000,FirstBank Stadium,Nashville,TN,37212,False,False,SEC - East
+254,Utah,Utes,UTAH,ea002a,Rice-Eccles Stadium,Salt Lake City,UT,84112,False,False,Pac-12
+154,Wake Forest,Demon Deacons,WAKE,000000,Allegacy Federal Credit Union Stadium,Winston-Salem,NC,27105,False,False,ACC
+2116,UCF,Knights,UCF,000000,FBC Mortgage Stadium,Orlando,FL,32816,True,False,Big 12
+2247,Georgia State,Panthers,GAST,1e539a,Center Parc Stadium,Atlanta,GA,30315,False,False,Sun Belt - East
+2711,Western Michigan,Broncos,WMU,532e1f,Waldo Stadium,Kalamazoo,MI,49008,False,False,Mid-American - West
+338,Kennesaw State,Owls,KENN,fdbb30,Fifth Third Stadium,Kennesaw,GA,30144,True,False,FCS Independents
+41,UConn,Huskies,CONN,0c2340,Pratt & Whitney Stadium,East Hartford,CT,06118,True,False,FBS Independents
+135,Minnesota,Golden Gophers,MINN,5e0a2f,Huntington Bank Stadium,Minneapolis,MN,55455,False,False,Big Ten - West
+142,Missouri,Tigers,MIZ,f1b82d,Memorial Stadium/Faurot Field,Columbia,MO,65203,False,False,SEC - East
+202,Tulsa,Golden Hurricane,TLSA,003595,Chapman Stadium,Tulsa,OK,74104,False,False,American
+5,UAB,Blazers,UAB,003b28,Protective Stadium,Birmingham,AL,35203,True,False,American
+9,Arizona State,Sun Devils,ASU,8e0c3a,Mountain America Stadium,Tempe,AZ,85287,True,False,Pac-12
+2199,Eastern Michigan,Eagles,EMU,00331b,Rynearson Stadium,Ypsilanti,MI,48197,False,False,Mid-American - West
+127,Michigan State,Spartans,MSU,18453b,Spartan Stadium,East Lansing,MI,48824,True,False,Big Ten - East
+2390,Miami,Hurricanes,MIA,005030,Hard Rock Stadium,Miami Gardens,FL,33056,True,False,ACC
+2305,Kansas,Jayhawks,KU,0051ba,David Booth Kansas Memorial Stadium,Lawrence,KS,66044,False,False,Big 12
+62,Hawai'i,Rainbow Warriors,HAW,003420,Clarence T.C. Ching Athletics Complex,Honolulu,HI,96822,True,False,Mountain West
+61,Georgia,Bulldogs,UGA,ba0c2f,Sanford Stadium,Athens,GA,30602,True,False,SEC - East
+130,Michigan,Wolverines,MICH,00274c,Michigan Stadium,Ann Arbor,MI,48104,False,False,Big Ten - East
+84,Indiana,Hoosiers,IU,990000,"Memorial Stadium (Bloomington, IN)",Bloomington,IN,47408,False,False,Big Ten - East
+333,Alabama,Crimson Tide,ALA,9e1632,Bryant-Denny Stadium,Tuscaloosa,AL,35401,True,False,SEC - West
+213,Penn State,Nittany Lions,PSU,00265D,Beaver Stadium,University Park,PA,16802,True,False,Big Ten - East
+264,Washington,Huskies,WASH,33006f,Husky Stadium,Seattle,WA,98195,False,False,Pac-12
+251,Texas,Longhorns,TEX,c15d26,DKR-Texas Memorial Stadium,Austin,TX,78712,False,False,Big 12
+87,Notre Dame,Fighting Irish,ND,0c2340,Notre Dame Stadium,Notre Dame,IN,46556,False,False,FBS Independents
+2483,Oregon,Ducks,ORE,007030,Autzen Stadium,Eugene,OR,97401,False,False,Pac-12
+2306,Kansas State,Wildcats,KSU,3c0969,Bill Snyder Family Stadium,Manhattan,KS,66502,False,False,Big 12
+2628,TCU,Horned Frogs,TCU,4d1979,Amon G. Carter Stadium,Fort Worth,TX,76129,True,False,Big 12
+275,Wisconsin,Badgers,WIS,c4012f,Camp Randall Stadium,Madison,WI,53711,False,False,Big Ten - West
+201,Oklahoma,Sooners,OU,a32036,"Memorial Stadium (Norman, OK)",Norman,OK,73019,True,False,Big 12
+145,Ole Miss,Rebels,MISS,13294b,Vaught-Hemingway Stadium,Oxford,MS,38655,True,False,SEC - West
+245,Texas A&M,Aggies,TA&M,500000,Kyle Field,College Station,TX,77840,True,False,SEC - West
+2655,Tulane,Green Wave,TULN,006547,Yulman Stadium,New Orleans,LA,70118,False,False,American
+2294,Iowa,Hawkeyes,IOWA,000000,Kinnick Stadium,Iowa City,IA,52240,False,False,Big Ten - West
+96,Kentucky,Wildcats,UK,0033a0,Kroger Field,Lexington,KY,40506,False,False,SEC - East
+2335,Liberty,Flames,LIB,071740,Williams Stadium (VA),Lynchburg,VA,24502,False,False,Conference USA
+2509,Purdue,Boilermakers,PUR,000000,Ross-Ade Stadium,West Lafayette,IN,47906,True,False,Big Ten - West
+2567,SMU,Mustangs,SMU,354ca1,Gerald J. Ford Stadium,Dallas,TX,75205,False,False,American
+103,Boston College,Eagles,BC,8c2232,"Alumni Stadium (Chestnut Hill, MA)",Chestnut Hill,MA,02467,False,False,ACC
+195,Ohio,Bobcats,OHIO,295A29,Peden Stadium,Athens,OH,45701,False,False,Mid-American - East
+8,Arkansas,Razorbacks,ARK,a41f35,War Memorial Stadium (AR),Little Rock,AR,72205,False,False,SEC - West
+2005,Air Force,Falcons,AFA,004a7b,Falcon Stadium,USAF Academy,CO,80840,False,False,Mountain West
+66,Iowa State,Cyclones,ISU,822433,Jack Trice Stadium,Ames,IA,50011,True,False,Big 12
+218,Temple,Owls,TEM,A80532,Lincoln Financial Field,Philadelphia,PA,19148,True,False,American
+2,Auburn,Tigers,AUB,002b5c,Jordan-Hare Stadium,Auburn,AL,36849,True,False,SEC - West
+120,Maryland,Terrapins,MD,D5002B,SECU Stadium,College Park,MD,20742,False,False,Big Ten - East
+98,Western Kentucky,Hilltoppers,WKU,F32026,Houchens Industries-L.T. Smith Stadium,Bowling Green,KY,42101,False,False,Conference USA
+221,Pittsburgh,Panthers,PITT,003263,Acrisure Stadium,Pittsburgh,PA,15212,True,False,ACC
+2132,Cincinnati,Bearcats,CIN,000000,Nippert Stadium,Cincinnati,OH,45221,False,False,Big 12
+2026,Appalachian State,Mountaineers,APP,000000,Kidd Brewer Stadium,Boone,NC,28607,False,False,Sun Belt - East
+344,Mississippi State,Bulldogs,MSST,5d1725,Davis Wade Stadium,Starkville,MS,39762,True,False,SEC - West
+249,North Texas,Mean Green,UNT,ffffff,DATCU Stadium,Denton,TX,76205,False,False,American
+183,Syracuse,Orange,SYR,ff6500,JMA Wireless Dome,Syracuse,NY,13244,False,True,ACC
+2439,UNLV,Rebels,UNLV,b10202,Allegiant Stadium,Las Vegas,NV,89118,True,True,Mountain West
+2429,Charlotte,49ers,CLT,ffffff,Jerry Richardson Stadium,Charlotte,NC,28223,False,False,American
+2226,Florida Atlantic,Owls,FAU,00447c,FAU Stadium,Boca Raton,FL,33431,True,False,American
+290,Georgia Southern,Eagles,GASO,003775,Allen E. Paulson Stadium,Statesboro,GA,30458,False,False,Sun Belt - East
+256,James Madison,Dukes,JMU,450084,Bridgeforth Stadium/Zane Showker Field,Harrisonburg,VA,22807,False,False,Sun Belt - East
+276,Marshall,Thundering Herd,MRSH,00ae42,Joan C. Edwards Stadium,Huntington,WV,25703,False,False,Sun Belt - East
+2229,Florida International,Panthers,FIU,001538,Riccardo Silva Stadium,Miami,FL,33199,False,False,Conference USA
+2433,UL Monroe,Warhawks,ULM,231F20,Malone Stadium,Monroe,LA,71203,False,False,Sun Belt - West
+36,Colorado State,Rams,CSU,1e4d2b,Canvas Stadium,Fort Collins,CO,80521,False,False,Mountain West
+239,Baylor,Bears,BAY,154734,McLane Stadium,Waco,TX,76704,False,False,Big 12
+248,Houston,Cougars,HOU,c92a39,TDECU Stadium,Houston,TX,77204,False,False,Big 12
+197,Oklahoma State,Cowboys,OKST,ff6500,Boone Pickens Stadium,Stillwater,OK,74075,False,False,Big 12
+235,Memphis,Tigers,MEM,004991,Simmons Bank Liberty Stadium,Memphis,TN,38104,False,False,American
+2572,Southern Miss,Golden Eagles,USM,FFAA3C,M. M. Roberts Stadium,Hattiesburg,MS,39406,False,False,Sun Belt - West
+2653,Troy,Trojans,TROY,AE0210,Veterans Memorial Stadium (AL),Troy,AL,36082,False,False,Sun Belt - West
+356,Illinois,Fighting Illini,ILL,ff5f05,"Memorial Stadium (Champaign, IL)",Champaign,IL,61820,False,False,Big Ten - West
+259,Virginia Tech,Hokies,VT,630031,Lane Stadium,Blacksburg,VA,24060,True,False,ACC
+309,Louisiana,Ragin' Cajuns,UL,ce181e,Cajun Field,Lafayette,LA,70506,False,False,Sun Belt - West
+2751,Wyoming,Cowboys,WYO,492f24,Jonah Field at War Memorial Stadium,Laramie,WY,82070,False,False,Mountain West
+2638,UTEP,Miners,UTEP,ff8200,Sun Bowl,El Paso,TX,79902,False,False,Conference USA
+12,Arizona,Wildcats,ARIZ,0c234b,Arizona Stadium,Tucson,AZ,85719,False,False,Pac-12
+252,BYU,Cougars,BYU,003da5,LaVell Edwards Stadium,Provo,UT,84604,True,False,Big 12
+26,UCLA,Bruins,UCLA,2774ae,Rose Bowl,Pasadena,CA,91103,True,False,Pac-12
+23,San José State,Spartans,SJSU,005893,CEFCU Stadium,San Jose,CA,95112,False,False,Mountain West
+164,Rutgers,Scarlet Knights,RUTG,d21034,SHI Stadium,Piscataway,NJ,08854,False,False,Big Ten - East
+150,Duke,Blue Devils,DUKE,013088,Wallace Wade Stadium,Durham,NC,27708,True,False,ACC
+97,Louisville,Cardinals,LOU,c9001f,L&N Federal Credit Union Stadium,Louisville,KY,40208,False,False,ACC
+52,Florida State,Seminoles,FSU,782f40,Doak Campbell Stadium,Tallahassee,FL,32304,True,False,ACC
+194,Ohio State,Buckeyes,OSU,ce1141,Ohio Stadium,Columbus,OH,43210,False,False,Big Ten - East
+2633,Tennessee,Volunteers,TENN,ff8200,Neyland Stadium,Knoxville,TN,37996,True,False,SEC - East
+152,NC State,Wolfpack,NCSU,cc0000,Carter-Finley Stadium,Raleigh,NC,27607,True,False,ACC
+2641,Texas Tech,Red Raiders,TTU,000000,Jones AT&T Stadium,Lubbock,TX,79407,False,False,Big 12
+99,LSU,Tigers,LSU,461d7c,Tiger Stadium (LA),Baton Rouge,LA,70803,True,False,SEC - West
+204,Oregon State,Beavers,ORST,231f20,Reser Stadium,Corvallis,OR,97331,False,False,Pac-12
+153,North Carolina,Tar Heels,UNC,7bafd4,Kenan Stadium,Chapel Hill,NC,27514,True,False,ACC
+265,Washington State,Cougars,WSU,981e32,Gesa Field,Pullman,WA,99164,False,False,Pac-12
+38,Colorado,Buffaloes,COLO,000000,Folsom Field,Boulder,CO,80305,True,False,Pac-12
+228,Clemson,Tigers,CLEM,f56600,"Memorial Stadium (Clemson, SC)",Clemson,SC,29634,True,False,ACC
+349,Army,Black Knights,ARMY,ce9c00,Michie Stadium,West Point,NY,10996,False,False,FBS (I-A)
+258,Virginia,Cavaliers,UVA,232d4b,Scott Stadium,Charlottesville,VA,22903,False,False,ACC
+59,Georgia Tech,Yellow Jackets,GT,003057,Bobby Dodd Stadium,Atlanta,GA,30332,False,False,ACC
+2117,Central Michigan,Chippewas,CMU,6a0032,Kelly/Shorts Stadium,Mount Pleasant,MI,48858,False,False,Mid-American - West
+189,Bowling Green,Falcons,BGSU,2b1000,Doyt L. Perry Stadium,Bowling Green,OH,43403,False,False,Mid-American - East
+77,Northwestern,Wildcats,NU,582c83,Ryan Field,Evanston,IL,60208,True,False,Big Ten - West
+113,Massachusetts,Minutemen,MASS,880007,Warren McGuirk Alumni Stadium,Amherst,MA,01003,False,False,FBS Independents
+2636,UTSA,Roadrunners,UTSA,002A5C,Alamodome,San Antonio,TX,78203,False,True,American
+2426,Navy,Midshipmen,NAVY,00225b,Navy-Marine Corps Memorial Stadium,Annapolis,MD,21401,False,False,American
+2459,Northern Illinois,Huskies,NIU,F1122C,Huskie Stadium,Dekalb,IL,60115,False,False,Mid-American - West
+2649,Toledo,Rockets,TOL,0a2240,Glass Bowl,Toledo,OH,43606,False,False,Mid-American - West
+151,East Carolina,Pirates,ECU,4b1869,Dowdy-Ficklen Stadium,Greenville,NC,37604,True,False,American
+6,South Alabama,Jaguars,USA,003E7E,Hancock Whitney Stadium,Mobile,AL,36688,True,False,Sun Belt - West
+277,West Virginia,Mountaineers,WVU,002855,Milan Puskar Stadium,Morgantown,WV,26505,False,False,Big 12
+295,Old Dominion,Monarchs,ODU,00507d,S.B. Ballard Stadium,Norfolk,VA,23508,False,False,Sun Belt - East
+2006,Akron,Zips,AKR,00285e,InfoCision Stadium,Akron,OH,44304,False,False,Mid-American - East
+2084,Buffalo,Bulls,BUFF,041A9B,UB Stadium,Buffalo,NY,14228,False,False,Mid-American - East
+324,Coastal Carolina,Chanticleers,CCU,007073,Brooks Stadium (SC),Conway,SC,29526,False,False,Sun Belt - East
+68,Boise State,Broncos,BOIS,0033a0,Albertsons Stadium,Boise,ID,83706,False,False,Mountain West
+242,Rice,Owls,RICE,d1d5d8,Rice Stadium,Houston,TX,77005,False,False,American
+58,South Florida,Bulls,USF,004A36,Raymond James Stadium,Tampa,FL,33607,True,False,American
+2032,Arkansas State,Red Wolves,ARST,e81018,Centennial Bank Stadium,Jonesboro,AR,72401,False,False,Sun Belt - West
+2440,Nevada,Wolf Pack,NEV,002d62,Mackay Stadium,Reno,NV,89557,False,False,Mountain West
+57,Florida,Gators,FLA,0021a5,Ben Hill Griffin Stadium,Gainesville,FL,32611,True,False,SEC - East
+2579,South Carolina,Gamecocks,SC,73000a,Williams-Brice Stadium,Columbia,SC,29201,True,False,SEC - East
+167,New Mexico,Lobos,UNM,000000,University Stadium (NM),Albuquerque,NM,87106,False,False,Mountain West
+328,Utah State,Aggies,USU,00263a,Maverik Stadium,Logan,UT,84341,False,False,Mountain West
+278,Fresno State,Bulldogs,FRES,c41230,Valley Children's Stadium,Fresno,CA,93710,False,False,Mountain West
+25,California,Golden Bears,CAL,031522,California Memorial Stadium,Berkeley,CA,94720,False,False,Pac-12
+2309,Kent State,Golden Flashes,KENT,003976,Dix Stadium,Kent,OH,44242,False,False,Mid-American - East
+2050,Ball State,Cardinals,BALL,DA0000,Scheumann Stadium,Muncie,IN,47304,False,False,Mid-American - West
+2393,Middle Tennessee,Blue Raiders,MTSU,006db6,"Johnny ""Red"" Floyd Stadium",Murfreesboro,TN,37130,False,False,Conference USA
+158,Nebraska,Cornhuskers,NEB,d00000,"Memorial Stadium (Lincoln, NE)",Lincoln,NE,68508,False,False,Big Ten - West
+24,Stanford,Cardinal,STAN,8c1515,Stanford Stadium,Stanford,CA,94305,True,False,Pac-12
+326,Texas State,Bobcats,TXST,4e1719,Bobcat Stadium (TX),San Marcos,TX,78666,False,False,Sun Belt - West
+193,Miami (OH),RedHawks,M-OH,a4000c,Yager Stadium,Oxford,OH,45056,False,False,Mid-American - East
+2534,Sam Houston,Bearkats,SHSU,fe5000,Elliott T. Bowers Stadium,Huntsville,TX,77340,False,False,Conference USA

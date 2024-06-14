@@ -1,0 +1,4 @@
+source,school,name,abbreviation,color,stadium,city,state,zip,grass,stadium_indoor,division
+30,USC,Trojans,USC,9e2237,Los Angeles Memorial Coliseum,Los Angeles,CA,90037,True,False,Pac-12
+55,Jacksonville State,Gamecocks,JVST,b50500,Burgess-Snow Field,Jacksonville,AL,36265,False,False,Conference USA
+166,New Mexico State,Aggies,NMSU,891216,Aggie Memorial Stadium,Las Cruces,NM,88003,False,False,Conference USA
